@@ -1,0 +1,11 @@
+# Menjalankan skrip
+python main.py
+
+# Menjalankan unit test pada folder tests
+python -m pytest tests
+
+# Menjalankan test coverage pada folder tests
+coverage run -m pytest tests
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/1wukLx_CFIbckOlQAntkt9UUCVCGcjwj6wLUlp8gYKPc/edit?usp=sharing
