@@ -15,7 +15,7 @@ from utils.load import load_data
 # Google Sheets Configuration
 # Replace with your actual Spreadsheet ID from the URL:
 # https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}/edit
-SPREADSHEET_ID = "1wukLx_CFIbckOlQAntkt9UUCVCGcjwj6wLUlp8gYKPc"
+SPREADSHEET_ID = "1mD4gMKEhra1Wb9qD3pP3pyOa8evdaxL1jfRNkbv0ZpQ"
 CREDENTIALS_PATH = "google-sheets-api.json"
 
 # PostgreSQL Configuration

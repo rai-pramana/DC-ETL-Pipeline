@@ -86,7 +86,7 @@ coverage run -m pytest tests
 ## Repositori Data
 
 - **CSV**: `products.csv`
-- **Google Sheets**: [Link](https://docs.google.com/spreadsheets/d/1wukLx_CFIbckOlQAntkt9UUCVCGcjwj6wLUlp8gYKPc/edit?usp=sharing)
+- **Google Sheets**: [Link](https://docs.google.com/spreadsheets/d/1mD4gMKEhra1Wb9qD3pP3pyOa8evdaxL1jfRNkbv0ZpQ/edit?usp=sharing)
 - **PostgreSQL**: Supabase (konfigurasi di `main.py`)
 
 ## Dependencies
